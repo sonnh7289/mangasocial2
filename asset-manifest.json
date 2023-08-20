@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.784d3c6f.css",
+    "main.js": "/static/js/main.32cbc547.js",
+    "static/media/Rectangle 1.svg": "/static/media/Rectangle 1.41b53de23c4c3466ac4ad47f4df98376.svg",
+    "static/media/image 6.svg": "/static/media/image 6.51b62d91bea67db0b484a4f86d90096e.svg",
+    "static/media/image 9.svg": "/static/media/image 9.521a994b269ee46fc00b3234a6052d01.svg",
+    "static/media/image 8.svg": "/static/media/image 8.871931907e8fd52a784cd86a6cfc8da2.svg",
+    "static/media/sliderImgManga.png": "/static/media/sliderImgManga.114f32e421e2f377196d.png",
+    "static/media/image 5.svg": "/static/media/image 5.c7444ae064cf02c681a43ef8eaf61252.svg",
+    "static/media/Vector 3.png": "/static/media/Vector 3.03119bd6cb6d5abe5e7b.png",
+    "static/media/image 7.png": "/static/media/image 7.6ca6f3361807b117676d.png",
+    "static/media/slider8.svg": "/static/media/slider8.113b4472e7fec80c379669fc38c574ca.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.784d3c6f.css.map": "/static/css/main.784d3c6f.css.map",
+    "main.32cbc547.js.map": "/static/js/main.32cbc547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.784d3c6f.css",
+    "static/js/main.32cbc547.js"
+  ]
+}
